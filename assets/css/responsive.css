@@ -1,0 +1,231 @@
+@media screen and (max-width : 775px) {
+    .trial h4 {
+        width: 25%;
+    }
+
+    .specialized svg {
+
+        font-size: 1rem !important;
+    }
+
+    .trial {
+        margin-top: 7rem !important;
+    }
+
+    .trial .cus_card {
+        margin-bottom: 6rem;
+    }
+}
+
+@media screen and (min-width : 776px) and (max-width: 991px) {
+    .trial h4 {
+        width: 50%;
+    }
+
+    .trial .cus_card {
+        min-height: 25rem !important;
+        width: 100% !important;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width : 1200px) {}
+
+@media all and (min-width : 992px) {
+    .navbar .collapse .navbar-nav li {
+        border: 1px solid rgba(0, 0, 0, .3) !important;
+        border-radius: 50px;
+        padding: 0 !important;
+        font-size: 14px !important;
+        margin-left: 10px !important;
+    }
+
+    .navbar .collapse .navbar-nav li a {
+        font-size: 16px !important;
+        font-weight: bold !important;
+    }
+
+    .navbar .collapse .navbar-nav li a {
+        padding: 0;
+        padding-right : 10px !important;
+    }
+
+     .cus-btn {
+        border-radius: 50px;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-weight: bold;
+        font-size: 14px !important;
+        color: white;
+        border: 2px solid #E33237;
+        background-color: #E33237 !important;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .help h5 {
+        margin-top: 5rem;
+        color: #E33237;
+        font-size: 30px;
+        margin-bottom: 1rem;
+    }
+
+    /* a.nav-link.d-lg-flex.align-items-lg-center {
+        padding: 0 !important;
+    }  */
+
+
+    /* .navbar ul li{
+        display: inline;
+    } */
+}
+
+@media screen and (min-width :1200px) {
+    .trial {
+        margin-top: 7rem !important;
+    }
+
+
+    .trial .cus_card {
+        min-height: 23rem;
+        width: 23rem;
+    }
+
+    .navbar .collapse .navbar-nav li {
+        border: 1px solid rgba(0, 0, 0, .3) !important;
+        border-radius: 50px;
+        padding-right: 17px;
+        margin-right: 35px;
+    }
+
+    .about-us h1 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 4rem;
+    }
+
+    .about-us p {
+        line-height: 1.8;
+        font-size: bold;
+        font-size: 24px;
+    }
+
+    /* .differnced_with_indovance {
+        margin-top: 6rem;
+    } */
+
+    .differnced_with_indovance h1 {
+        font-weight: 300;
+        font-size: 4rem;
+
+    }
+
+    .differnced_with_indovance h1 span {
+        font-weight: 700;
+    }
+
+    .specialized h1 {
+        font-weight: 100;
+        font-size: 4rem;
+    }
+
+    .specialized h1 span {
+        font-weight: bold;
+    }
+
+    .software h1 {
+        font-weight: 100;
+        font-size: 4rem;
+        line-height: 1.4;
+    }
+
+
+    .software h1 span {
+        font-weight: 700 !important;
+    }
+
+    .software p {
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .specialized h3 {
+        font-size: 28px;
+    }
+
+    .specialized ol li {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 1.8;
+    }
+
+    .specialized p {
+        font-weight: bold;
+    }
+
+    .trial span {
+        font-weight: 900;
+    }
+
+    .trial h1 {
+        font-weight: 300 !important;
+        font-size: 4rem;
+    }
+
+    .trial h3 {
+        font-weight: 900;
+        font-size: 35px;
+    }
+
+    .trial img {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .trial p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.8;
+    }
+
+    .indo-advantage {
+        margin-top: 4rem;
+    }
+
+    .indo-advantage h1 {
+        font-weight: 400;
+        font-size: 4rem;
+    }
+
+    .indo-advantage span {
+        font-weight: 900;
+    }
+
+    .indo-advantage p {
+        font-weight: 400;
+        font-size: 24px;
+    }
+
+    .happy h1 {
+        font-weight: 300;
+        font-size: 4rem;
+        margin-bottom: 2rem;
+    }
+
+    .happy .text-para {
+        font-weight: 400;
+        font-size: 24px;
+        margin-bottom: 4rem;
+    }
+
+    .help .text-heding {
+        font-weight: 300;
+        font-size: 4rem;
+    }
+
+    .border_left {
+        border-left: 1px solid rgb(0, 0, 0, .1) !important;
+        padding-left: 6rem !important;
+    }
+}
